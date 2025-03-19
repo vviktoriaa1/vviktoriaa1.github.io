@@ -5,12 +5,24 @@
     <link>https://vviktoriaa1.github.io/tags/hugo-blox/</link>
       <atom:link href="https://vviktoriaa1.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vviktoriaa1.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://vviktoriaa1.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://vviktoriaa1.github.io/post/02/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://vviktoriaa1.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;неделя-в-университете-&#34;&gt;Неделя в университете 🚀&lt;/h1&gt;
+&lt;p&gt;Еще одна учебная неделя позади! Было насыщенно: разобрались с SQL, обсудили основы проектирования баз данных и даже попробовали моделировать бизнес-процессы.&lt;/p&gt;
+&lt;p&gt;Самое сложное — разобраться с алгоритмами, но, кажется, начинаю понимать логику. Главное — практика.&lt;/p&gt;
+&lt;p&gt;Кто еще столкнулся с трудностями? Как справляетесь? Делитесь лайфхаками! 😉&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
